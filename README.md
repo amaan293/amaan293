@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Undergraduate+%7C+Pythonic+Mindset;OpenCV+%7C+Raspberry+Pi+%7C+Automation;Always+learning+and+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Undergraduate+%7C+Pythonic+Mindset" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Amaan</h1>
-<h3 align="center">B.Tech in Artificial Intelligence | Ex-Intern @ NexScope | Satellite Image Compression & Automation</h3>
+<h3 align="center">B.Tech in Artificial Intelligence | Machine Learning | Building Projects </h3>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tool Kit
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
@@ -38,9 +38,12 @@
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:mohammadamaan293@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+Email: mohammadamaan293@gmail.com
+
+
+
+  <a href="https://www.linkedin.com/in/mohammad-amaan-9b19b4295/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
